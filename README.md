@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **artificial intelligence and machine learning**
 
-- 📫 How to reach me **kalpeshpathare@gmail.com**
+- 📫 How to reach me **kalpeshpathare11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
