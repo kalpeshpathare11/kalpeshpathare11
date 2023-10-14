@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/Z9cK22O32UluEukE8o/giphy.gif?cid=ecf05e47pq02neyzps1ik5qi2cm3iyzrfe031ykevq4ql13y&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://codegrills.in)
+[![MasterHead](https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm kalpesh pathare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
