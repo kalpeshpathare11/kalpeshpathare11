@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://codegrills.in)
+[![MasterHead](https://w.wallhaven.cc/full/4l/wallhaven-4lewzl.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm kalpesh pathare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
